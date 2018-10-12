@@ -1,0 +1,12 @@
+Create Folder : " /internal storage/BOOT_LOGO "
+Drop .qmg Files to " /internal storage/BOOT_LOGO/ "
+
+
+BootUp Animation FileName : " bootup.qmg "
+BootLoop Animation FileName : " bootloop.qmg "
+Shutdown Animation FileName : " shutdown.qmg "
+
+If you want sounds, Add .ogg File on same directory.
+
+BootUp Sound FileName : " bootup.ogg "
+Shutdown Sound FileName : " shutdown.ogg "
